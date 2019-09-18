@@ -2,8 +2,9 @@ Dear OHOL Citizens
 ==================
 We write *the year 1600 Arc* and the two remaining families.
 
-* **Morsell**, with currently 9 females
+* **Morsell**, with currently 9 females ![image](Arc_1600_Morsell.png)
 * **Nim**, with currently 7 females.
+![image](Arc_1600_Nim.png)
 
 
  Our newsreporter have gathered some materials from each town. Which family will be the dominant one and will see the end of the Arc Century. If you have any further news, feel free to contact **Tea**  and **Emma**.

@@ -1,0 +1,3 @@
+markdown: https://commonmark.org/help/
+image: ![image](image/pic.png)
+gif: ![thumbs up](thumbs-up/thumbs-up.gif)
