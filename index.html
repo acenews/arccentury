@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<style>
+
+</style>
 
 <div class="home">
 
@@ -14,6 +17,8 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        {{post.description}}
+        <img src={{post.image}} width="360" height="auto"/>
 
       </li>
     {% endfor %}
