@@ -2,6 +2,7 @@
 layout: post
 title: Nim status report
 categories: [status]
+image: /images/Arc_1600_Morsell.png
 ---
 
 # Dear OHOL Citizens
