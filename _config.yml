@@ -10,7 +10,7 @@ plugins:
 baseurl: /ace
 #url: https://arc-century-news.github.io/ace/" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-github_username:  Arc-Century-News
+#github_username:  Arc-Century-News
 
 # Build settings
 markdown: kramdown
