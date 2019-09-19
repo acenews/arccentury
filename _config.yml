@@ -7,8 +7,8 @@ plugins:
  - jekyll-seo-tag
  - kramdown
 #excerpt_separator: "<!--more-->"
-baseurl: /ACE
-url: https://arc-century-news.github.io/ACE/ # the base hostname & protocol for your site
+baseurl: /ace
+#url: https://arc-century-news.github.io/ACE/" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  Arc-Century-News
 
