@@ -4,9 +4,8 @@ title: Arc Century News
 description: > # this means to ignore newlines until "baseurl:"
   Reporters Tea, Emma and Matycer follow the arc of OneLife through the centuries.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://arc-century-news.github.io/ACE/" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-baseurl: "ACE"
 github_username:  Arc-Century-News
 
 # Build settings
