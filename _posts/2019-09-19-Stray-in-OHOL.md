@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Stray in OHOL 
-description: Stray dogs looking for a loving home. 
+title: Stray in OHOL
+description: Stray dogs looking for a loving home.
 categories: [status, arc 4]
 header_image: /ace/images/Doggies.jpg
 image: /ace/images/Doggies.jpg
