@@ -12,5 +12,6 @@
   {% if page.image %}
   <meta data-rh="true" property="og:type" content="article">
   <meta data-rh="true" property="og:image" content="{{ page.image | prepend: site.url }}">
+  <meta data-rh="true" name="image" itemprop="image" content="{{ page.image | prepend: site.url }}">
   {% endif %}
 </head>
