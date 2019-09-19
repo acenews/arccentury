@@ -4,15 +4,9 @@ title: Arc Century News
 description: > # this means to ignore newlines until "baseurl:"
   Reporters Tea, Emma and Matycer follow the arc of OneLife through the centuries.
 plugins:
- - jekyll-feed
- - jekyll-optional-front-matter
- - jekyll-paginate
- - jekyll-redirect-from
- - jekyll-relative-links
  - jekyll-seo-tag
- - jekyll-sitemap
  - kramdown
-excerpt_separator: "<!--more-->"
+#excerpt_separator: "<!--more-->"
 url: "https://arc-century-news.github.io/ACE/" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  Arc-Century-News
