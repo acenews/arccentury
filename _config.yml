@@ -5,10 +5,10 @@ description: > # this means to ignore newlines until "baseurl:"
   Reporters Tea, Emma and Matycer follow the arc of OneLife through the centuries.
 plugins:
  - jekyll-seo-tag
- - kramdown
+ - jekyll
 #excerpt_separator: "<!--more-->"
 baseurl: /ace
-#url: https://arc-century-news.github.io/ACE/" # the base hostname & protocol for your site
+#url: https://arc-century-news.github.io/ace/" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  Arc-Century-News
 
