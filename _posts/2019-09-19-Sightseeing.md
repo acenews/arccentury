@@ -6,6 +6,7 @@ categories: [status,arc4]
 header_image: /ace/images/Reporters.jpeg
 image: /ace/images/Reporters.jpeg
 author: Tea
+photographer: Emma
 ---
 
 Today, our reporters set out to find all the different families and try to document their townlayouts and the important events in their towns.

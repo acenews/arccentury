@@ -8,12 +8,24 @@ layout: default
       {{ page.date | date: "%b %-d, %Y" }}
       {% if page.author %} 
       • 
+      <!--author-->
       <!--<a href="{{page.author | prepend: "/ace/authors/"}}"</a>-->
       <font color="blue"> {{ page.author }} </font>
-      {% endif %}
       &nbsp;
         <image src="{{page.author | prepend: "/ace/images/" | prepend: site.url | append: ".png" }}" width="42" height="42" alt="Avatar" style="border-radius: 50%"/>
       <!--</a>-->
+      {% endif %}
+      
+      {% if page.photographer %} 
+      • 
+      <!--author-->
+      <!--<a href="{{page.author | prepend: "/ace/authors/"}}"</a>-->
+      <font color="blue"> {{ page.photographer }} </font>
+      &nbsp;
+        <image src="{{page.photographer | prepend: "/ace/images/" | prepend: site.url | append: ".png" }}" width="42" height="42" alt="Avatar" style="border-radius: 50%"/>
+      <!--</a>-->
+      {% endif %}
+
     </p>
   <header>
     
