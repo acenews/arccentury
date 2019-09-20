@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<style>
+
+</style>
+
+<div class="home">
+  
+  <h1 class="page-heading">Latest News</h1>
+  <br>
+  <ul class="post-list">
+    {% for post in site.categories.interviews %}
+        {% if post.url %}
+        <li>
+                <span class="post-meta">{{ post.date | date: "%b %-d, %Y"}}</span>
+                <h2>
+                  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h2>
+                {{post.description}}
+                <br>
+                <img src={{post.image}} width="360" height="auto"/>
+        
+        </li>
+        {% endif %}
+    {% endfor %}
+</ul>
