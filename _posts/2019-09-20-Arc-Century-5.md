@@ -15,7 +15,7 @@ Countless Eves have set out to find the perfect place to plant the first berry b
 
 In the early stages of the Arc, the Torres clan was the strongest one, counting up to 9 females. Even though they took over the town of the Banas, they still payed respect to the grave of that clan's Eve. Some of their clan members were living in peace with the Heart family who later on made peace with the last surviving Nice family. The two families, Torres and Heart, lived at the north-eastern Rift and some of their ancestors had started the construction of a great stone wall.
 
-Disney, Royal, Bana and Nice, years by years those names were merely a faint memory of the past. Until there was only the Aaberg Family and the Torres Family left. 
+Disney, Royal, Bana and Nice, the years went by and those names were merely a faint memory of the past. Until there was only the Aaberg Family and the Torres Family left. 
 
 Torres started off with a healthy amount of females while Aaberg would count less than a handful of fertile females in their families. But these numbers would take an intense turn when after a civil war the Torres had only one female left, while Aaberg had at least 23. The efforts of the Torres Brothers to keep their sister and her offspring alive was in vain. The damages to their town was too severe and the drought problem eventually let to a famine that caused the end of this line.
 ![image](/ace/images/Torres.jpg)
