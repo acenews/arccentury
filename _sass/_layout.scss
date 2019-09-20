@@ -3,10 +3,11 @@
  */
 .site-header {
     border-top: 5px solid $grey-color-dark;
+    //#999
     //border-bottom: 1px solid $grey-color-light;
-    -webkit-box-shadow: 0 8px 8px -8px #999;
-    -moz-box-shadow: 0 8px 8px -8px #999;
-    box-shadow: 0 8px 8px -8px #999;
+    -webkit-box-shadow: 0 4px 10px -10px $grey-color-light;
+    -moz-box-shadow: 0 4px 10px -10px $grey-color-light;
+    box-shadow: 0 4px 10px -10px $grey-color-light;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
