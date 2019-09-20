@@ -19,7 +19,9 @@ layout: default
         </h2>
         {{post.description}}
         <br>
+        {% for post in site.posts %}
         <img src={{post.image}} width="360" height="auto"/>
+        {% endfor %}
 
       </li>
     {% endfor %}
