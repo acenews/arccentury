@@ -19,3 +19,5 @@ Years passed by and the two oldest brothers, Alan and Alexa Torres, had to prote
 
 But life is cruel in OHOL and the drought took a toll on this family, leading to a famine that none of the Torres Family survived. An so, the bell rang, ending another Arc.
 ![image](/ace/images/Torres_bodyguard.jpg)
+
+Thank you, Chicken Batnana, for giving us the full story for the Torres Family.
