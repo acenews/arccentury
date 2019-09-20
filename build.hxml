@@ -1,0 +1,9 @@
+#-cp src
+#-D analyzer-optimize
+#-main Main
+#--interp
+
+-neko script.n
+-main Main
+-cp src
+-cmd neko script.n
