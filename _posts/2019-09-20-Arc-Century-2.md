@@ -3,7 +3,7 @@ layout: post
 title: The end of Arc 2
 description: Another Arc Century has ended. What happened during all those years ?
 categories: [status]
-header_image: 
+header_image: /ace/image/
 image: 
 author: Tea
 photographer: Emma
