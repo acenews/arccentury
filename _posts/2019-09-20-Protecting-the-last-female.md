@@ -18,3 +18,4 @@ They managed to defend themselves from their attacker and killed off those who w
 Years passed by and the two oldest brothers, Alan and Alexa Torres, had to protect their little sister from attacks of the other family. Their knifes were constantly drained in blood and the town still had to solve the water problem. But their sister started to have offsprings of her own, giving the once ghostlike town new life. It seemed as if the Torres could get back on their feet and that the Arc would last a bit longer.
 
 But life is cruel in OHOL and the drought took a toll on this family, leading to a famine that none of the Torres Family survived. An so, the bell rang, ending another Arc.
+![image](/ace/images/Torres_bodyguard.jpg)
