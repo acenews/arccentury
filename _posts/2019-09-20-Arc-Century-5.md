@@ -18,6 +18,7 @@ In the early stages of the Arc, the Torres clan was the strongest one, counting 
 Disney, Royal, Bana and Nice, years by years those names were merely a faint memory of the past. Until there was only the Aaberg Family and the Torres Family left. 
 
 Torres started off with a healthy amount of females while Aaberg would count less than a handful of fertile females in their families. But these numbers would take an intense turn when after a civil war the Torres had only one female left, while Aaberg had at least 23. The efforts of the Torres Brothers to keep their sister and her offspring alive was in vain. The damages to their town was too severe and the drought problem eventually let to a famine that caused the end of this line.
+![image](/ace/images/Torres.jpg)
 
 The Aabergs were the last family that would hear the sound of the well-known bell, announcing the end of another Arc. Another powerful family who would see the end of an old Arc Century and the start of a new one.
 
