@@ -5,10 +5,16 @@
     //border-top: 5px solid $grey-color-dark;
     //#999
     //border-bottom: 1px solid $grey-color-light;
+    border-bottom: 1px solid #e2e2e2;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(226, 226, 226);
+    /*
     -webkit-box-shadow: 0 8px 8px -6px $grey-color-light;
     -moz-box-shadow: 0 8px 8px -6px $grey-color-light;
     box-shadow: 0 8px 8px -6px $grey-color-light;
     min-height: 56px;
+    */
 
     // Positioning context for the mobile navigation icon
     position: relative;
