@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The big Horse Strike
-description: Horses are striking, they are refusing to do carry our stuff.
+title: The murder of the Puppies
+description: A dog hater took away a mother dog her puppy and left them to die in the wilderness.
 categories: [status]
 header_image: /ace/images/killing_jackie_the_dog.jpg
 image: /ace/images/killing_jackie_the_dog.jpg
