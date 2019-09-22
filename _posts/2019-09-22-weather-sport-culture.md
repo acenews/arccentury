@@ -4,7 +4,7 @@ title: The cold ,but sunny weather!
 description: Weather, sport and culture in short, but very informative post.
 categories: [status]
 header_image: /ace/images/cold_but_sunny.jpg
-image: /ace/images/cold_but_sunnytwo.jpg  /ace/images/sports_frisby.webp /ace/images/weather_1.webp /ace/images/creaper.webp /ace/images/cold_but_sunny.jpg
+image: /ace/images/cold_but_sunny.jpg /ace/images/cold_but_sunnytwo.jpg  /ace/images/sports_frisby.webp /ace/images/weather_1.webp /ace/images/creaper.webp 
 author: Matycer
 photographer: Emma
 ---
