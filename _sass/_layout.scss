@@ -51,6 +51,10 @@
         }
     }
 
+    .page-link {
+        size: 30px;
+    }
+
     @include media-query($on-palm) {
         position: absolute;
         top: 9px;
