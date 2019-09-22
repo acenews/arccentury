@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The cold ,but sunny weather!
+title: The cold, but sunny weather!
 description: Weather, Sports and culture
 categories: [status]
 header_image: /ace/images/cold_but_sunny.jpg
