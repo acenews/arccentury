@@ -6,10 +6,7 @@ layout: default
 </style>
 
 <div class="home">
-
-  <h1 class="page-search">
-  <!-- HTML elements for search -->
-  <input type="text" id="search-input" placeholder="Search Articles">
+  
   <ul id="results-container"></ul>
   <!-- or -->
   <script src="https://cdn.rawgit.com/christian-fei/Simple-Jekyll-Search/master/dest/simple-jekyll-search.min.js"></script>
@@ -21,17 +18,17 @@ layout: default
         json: '{{ site.baseurl }}/search.json',
         searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
         noResultsText: 'No results found',
-        limit: 10,
+        limit: 8,
         fuzzy: false,
         exclude: ['Welcome']
       })
   </script>
-  </h1>
 
   <h1 class="page-heading">Latest News</h1>
   <br>
+  <div class="pagination">
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:8 %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y"}}</span>
 
@@ -47,6 +44,19 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
+  {% else %}
+    <!--<span>&laquo; Prev</span>-->
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+  {% else %}
+    <!--<span>Next &raquo;</span>-->
+  {% endif %}
+  </div>
+  
 
   <!--forums link-->
 
