@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<style>
+
+    </style>
+    
+    <div class="home">
+      <br>
+      <ul class="post-list">
+        {% for post in site.categories.arc4 %}
+            {% if post.url %}
+            <div class="post">
+                    <header class="post-header">
+                      <h1 class="post-title">{{ post.title }}</h1>
+                      <p class="post-meta">
+                        {{ post.date | date: "%b %-d, %Y" }}
+                        {% if post.author %} 
+                        • 
+                        <!--author-->
+                        <!--<a href="{{post.author | prepend: "/ace/authors/"}}"</a>-->
+                        <font color="blue"> {{ post.author }} </font>
+                        &nbsp;
+                          <image src="{{post.author | prepend: "/ace/images/" | prepend: site.url | append: ".png" }}" width="42" height="42" alt="Avatar" style="border-radius: 50%"/>
+                        <!--</a>-->
+                        {% endif %}
+                        
+                        {% if post.photographer %} 
+                        &nbsp;
+                        • 
+                        <!--author-->
+                        <!--<a href="{{post.author | prepend: "/ace/authors/"}}"</a>-->
+                        <font color="blue"> {{ post.photographer }} </font>
+                        &nbsp;
+                          <image src="{{post.photographer | prepend: "/ace/images/" | prepend: site.url | append: ".png" }}" width="42" height="42" alt="Avatar" style="border-radius: 50%"/>
+                        <!--</a>-->
+                        {% endif %}
+                  
+                      </p>
+
+                    <article class="post-content">
+                      {{ post.content }}
+                    </article>
+                  
+                  </div>
+            {% endif %}
+        {% endfor %}
+    </ul>

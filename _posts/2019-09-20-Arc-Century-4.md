@@ -2,9 +2,9 @@
 layout: post
 title: The end of Arc 4
 description: Another Arc Century has ended. What happened during all those years ?
-categories: [status]
+categories: [status,arc4]
 header_image: 
-image: 
+image:
 author: Tea
 photographer: Emma
 ---
