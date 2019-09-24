@@ -3,8 +3,8 @@ layout: post
 title: The end of Arc 6
 description: Another Arc has ended. What happened during all those years ?
 categories: [status]
-header_image: /ace/images/bodys_found/jpg
-image: /ace/images/bodys_found/jpg
+header_image: /ace/images/bodys_found.jpg
+image: /ace/images/bodys_found.jpg
 author: Tea
 photographer: Emma
 ---
