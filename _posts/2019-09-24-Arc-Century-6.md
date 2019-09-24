@@ -22,7 +22,7 @@ But this family was strong enough to overcome and survive these attacks and star
 ![image](/ace/images/Belltower_Posillico_.jpg)
 
 During this time of peace, the Jones didn’t sit idle in their town and hoped for a peaceful life. No, they prepared. The once weak family, dominated and hunted by the strong and powerful Posillico clan, had become strong enough to initiate one but impressive attack against the other family, ending their line and this Arc.
-![images](/ace/image/Jones_Town_arc_6.jpg)
+![images](/ace/images/Jones_Town_arc_6.jpg)
 
 It was the Jones, who in the beginning had to suffer many setbacks and difficulties,who was thought to be the one who would die out but who, in the end, was the one who heard a distant bell rang while standing over the corpses of a once powerful and feared family.
 
