@@ -6,9 +6,7 @@ layout: default
 </style>
 
 <div class="home">
-
-  <!-- HTML elements for search -->
-  <input type="text" id="search-input" placeholder="Search Articles">
+  
   <ul id="results-container"></ul>
   <!-- or -->
   <script src="https://cdn.rawgit.com/christian-fei/Simple-Jekyll-Search/master/dest/simple-jekyll-search.min.js"></script>
@@ -20,16 +18,18 @@ layout: default
         json: '{{ site.baseurl }}/search.json',
         searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
         noResultsText: 'No results found',
-        limit: 10,
+        limit: 8,
         fuzzy: false,
         exclude: ['Welcome']
       })
   </script>
-
-  <h1 class="page-heading">Latest News</h1>
+  <h2>
+    <a class="post-arc" href="{{ "/arc" | prepend: site.baseurl }}">Latest Arc</a>
+  </h2>
   <br>
+  <div class="pagination">
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:8 %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y"}}</span>
 
@@ -45,6 +45,7 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+  
 
   <!--forums link-->
 

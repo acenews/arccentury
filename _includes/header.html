@@ -14,11 +14,25 @@
       </a>-->
 
       <div class="trigger">
+        <!-- HTML elements for search -->
+        &nbsp;
+        <span>
+        <input type="text" id="search-input" placeholder="Search Articles" style="display: inline-block">
+        <script>
+          window.addEventListener("keydown",function(event)
+          {
+            if (event.key == "Enter")
+            {
+              if (window.location.href != "{{page.url | prepend: site.baseurl}}") window.location.href = "{{page.url | prepend: site.baseurl}}";
+            }
+          });
+        </script>
         {% for page in site.pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
+      </span>
       </div>
     </nav>
 

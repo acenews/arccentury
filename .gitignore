@@ -1,4 +1,5 @@
 _site
 .sass-cache
 script.n
+.DS_Store
 #_config.yml
