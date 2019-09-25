@@ -7,7 +7,7 @@ header_image: /images/Ziv_and_Kill.jpg
 image: /images/Ziv_and_Kill.jpg
 author: Tea
 photographer: Emma and Ziv
-interviewed: Ziv
+interview: Ziv
 ---
 
 Disclaimer: The views expressed in this publication do not necessarily reflect the views of ACE News. We advise our readers to be aware that we can't be certain of the truthfulness of his answers. 
