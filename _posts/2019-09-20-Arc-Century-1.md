@@ -1,10 +1,10 @@
 ---
 layout: post
 title: The end of Arc 1
-description: Another Arc has ended. What happened during all those years ?
-categories: [status]
-header_image: /ace/images/Arc_1.jpg
-image: /ace/images/Arc_1.jpg
+description: Another Arc has ended. What happened during all those years?
+header_image: /images/Arc_1.jpg
+image: /images/Arc_1.jpg
+tags: []
 author: Tea
 photographer: Emma
 ---

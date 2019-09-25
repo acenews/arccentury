@@ -8,7 +8,7 @@ layout: default
     <div class="home">
       <br>
       <ul class="post-list">
-        {% for post in site.categories.arc4 %}
+        {% for post in site.tags.arc6 %}
             {% if post.url %}
             <div class="post">
                     <header class="post-header">
@@ -21,7 +21,7 @@ layout: default
                         <!--<a href="{{post.author | prepend: "/ace/authors/"}}"</a>-->
                         <font color="blue"> {{ post.author }} </font>
                         &nbsp;
-                          <image src="{{post.author | prepend: "/ace/images/" | prepend: site.url | append: ".png" }}" width="42" height="42" alt="Avatar" style="border-radius: 50%"/>
+                          <image src="{{post.author | prepend: "/images/" | prepend: site.url | append: ".png" }}" width="42" height="42" alt="Avatar" style="border-radius: 50%"/>
                         <!--</a>-->
                         {% endif %}
                         
@@ -32,7 +32,7 @@ layout: default
                         <!--<a href="{{post.author | prepend: "/ace/authors/"}}"</a>-->
                         <font color="blue"> {{ post.photographer }} </font>
                         &nbsp;
-                          <image src="{{post.photographer | prepend: "/ace/images/" | prepend: site.url | append: ".png" }}" width="42" height="42" alt="Avatar" style="border-radius: 50%"/>
+                          <image src="{{post.photographer | prepend: "/images/" | prepend: site.url | append: ".png" }}" width="42" height="42" alt="Avatar" style="border-radius: 50%"/>
                         <!--</a>-->
                         {% endif %}
                   

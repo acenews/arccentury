@@ -2,9 +2,9 @@
 layout: post
 title: The murder of the puppies
 description: A dog hater took away a mother dog her puppy and left them to die in the wilderness.
-categories: [status]
-header_image: /ace/images/killing_jackie_the_dog.jpg
-image: /ace/images/killing_jackie_the_dog.jpg
+tags: [status]
+header_image: /images/killing_jackie_the_dog.jpg
+image: /images/killing_jackie_the_dog.jpg
 author: Tea
 photographer: Emma
 ---
@@ -22,4 +22,4 @@ Joshawan, filled with rage and sadness, killed the known villain of this horribl
 Later on, the body of Jackie was found. She had been looking for her last puppy, but when she couldn't be reunited with her family, she died to a broken heart. 
 
 Rest in peace Jackie.
-![image](/ace/images/killing_jackie_the_dog.jpg)
+![image](/images/killing_jackie_the_dog.jpg)
