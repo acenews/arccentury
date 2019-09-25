@@ -7,9 +7,10 @@ header_image: /images/Ziv_and_Kill.jpg
 image: /images/Ziv_and_Kill.jpg
 author: Tea
 photographer: Emma and Ziv
+interviewed: Ziv
 ---
 
-We advise our readers to be aware that we can't be certain of the truthfulness of his answers. What you are about to read does not represent the point of view of our news magazine but the one of a known griefer in the OHOL community. 
+Disclaimer: The views expressed in this publication do not necessarily reflect the views of ACE News. We advise our readers to be aware that we can't be certain of the truthfulness of his answers. 
 
 Ziv started to play this game 4 months ago and was enjoying the game mechanics with some of his friends. But when a group of people betrayed his hospitality, killed him and took over his town, he started to change his way of playing and thinking about this game. 
 
