@@ -2,7 +2,7 @@
 layout: post
 title: The end of Arc 1
 description: Another Arc has ended. What happened during all those years ?
-categories: [status]
+tagstus]
 header_image: /images/Arc_1.jpg
 image: /images/Arc_1.jpg
 author: Tea

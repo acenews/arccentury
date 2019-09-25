@@ -10,7 +10,7 @@ layout: default
   <h1 class="page-heading">Latest News</h1>
   <br>
   <ul class="post-list">
-    {% for post in site.categories.interviews %}
+    {% for post in site.tags.interviews %}
         {% if post.url %}
         <li>
                 <span class="post-meta">{{ post.date | date: "%b %-d, %Y"}}</span>

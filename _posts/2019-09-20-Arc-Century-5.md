@@ -2,7 +2,7 @@
 layout: post
 title: The end of Arc 5
 description: Another Arc Century has ended. What happened during all those years ?
-categories: [status]
+tags: [status]
 header_image: /images/Eve_Bana_grave_with_name.jpg
 image: /images/Eve_Bana_grave_with_name.jpg
 author: Tea

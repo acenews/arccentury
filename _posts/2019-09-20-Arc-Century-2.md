@@ -2,7 +2,7 @@
 layout: post
 title: The end of Arc 2
 description: Another Arc Century has ended. What happened during all those years ?
-categories: [status]
+tags: [status]
 header_image: /images/Arc_2.jpg
 image: /images/Arc_2.jpg
 author: Tea

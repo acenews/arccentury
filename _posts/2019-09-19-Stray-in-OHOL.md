@@ -2,7 +2,7 @@
 layout: post
 title: Stray in OHOL
 description: Stray dogs looking for a loving home.
-categories: [status, arc4]
+tagstus, arc4]
 header_image: /images/Doggies.jpg
 image: /images/Doggies.jpg
 author: Tea

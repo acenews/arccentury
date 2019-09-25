@@ -2,7 +2,7 @@
 layout: post
 title: Sightseeing
 description: Visiting all the families in OHOL
-categories: [status,arc4]
+tags: [status,arc4]
 header_image: /images/Reporters.jpeg
 image: /images/Reporters.jpeg
 author: Tea
