@@ -2,7 +2,7 @@
 layout: post
 title: Protecting the last Female
 description: After a serious civil war lead to a close extinction of the Torres Family, two brothers armed with knifes and pads guarded their little sister, the remaining female of their clan.
-tagstus]
+tags: [status]
 header_image: /images/Torres.jpg
 image: /images/Torres.jpg
 author: Tea

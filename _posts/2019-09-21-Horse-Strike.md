@@ -2,7 +2,7 @@
 layout: post
 title: The big Horse Strike
 description: Horses are striking, they are refusing to do carry our stuff.
-tagstus]
+tags: [status]
 header_image: /images/broken_horse_cart.jpg
 image: /images/broken_horse_cart.jpg
 author: Tea

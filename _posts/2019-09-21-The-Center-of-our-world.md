@@ -2,7 +2,7 @@
 layout: post
 title: The Great Road Construction
 description: Roads leading form one town to the Tarr monument have been build, but the builder is unknown. What is his main motive?
-tags
+tags: []
 header_image: /images/unless.jpg
 image: /images/unless.jpg
 author: Tea
