@@ -5,8 +5,7 @@ description: Another Arc Century has ended. What happened during all those years
 tags: [status]
 header_image: /images/Arc_2.jpg
 image: /images/Arc_2.jpg
-author: Tea
-photographer: Emma
+authors: [Tea,Emma]
 ---
 
 Ladies and Gentlemen, People of OHOL, Young and Elders. Another Arc Century has ended, lasting roughly 1800 years. What an exciting century! We’ve seen families come and go, towns thrive and forgotten. Even a cult clan, known as the Puig Family, worshipping a murderous individual going by the name of Ziv, was being formed in the early years of the Arc. It seemed as they were living in peace with the Keldermans and Hammers together until one of the Puig Woman doomed the Hammers Line and was brought to justice by the knife of a Kelderman. The Ziv Cult ended shortly after, at Generation 9.

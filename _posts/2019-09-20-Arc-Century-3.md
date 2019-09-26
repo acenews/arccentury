@@ -5,8 +5,7 @@ description: Another Arc Century has ended. What happened during all those years
 tags: [status]
 header_image: /images/apoc.JPG
 image: /images/apoc.JPG
-author: Tea
-photographer: Emma
+authors: [Tea,Emma]
 ---
 
 Ladies and Gentlemen, People of OHOL, Young and Elders, another Arc Century has ended, this time lasting only 817 years! What was the cause of this short Arc Period?

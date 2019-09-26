@@ -5,8 +5,7 @@ description: Weather, Sports and culture
 tags: [status]
 header_image: /images/cold_but_sunny.jpg
 image: /images/cold_but_sunny.jpg /images/cold_but_sunnytwo.jpg  /images/sports_frisby.webp /images/weather_1.webp /images/creaper.webp 
-author: Matycer
-photographer: Emma
+authors: [Matycer,Emma]
 ---
 
 * # weather

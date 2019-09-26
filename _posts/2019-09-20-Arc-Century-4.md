@@ -5,8 +5,7 @@ description: Another Arc Century has ended. What happened during all those years
 tags: [status,arc4]
 header_image: 
 image:
-author: Tea
-photographer: Emma
+authors: [Tea,Emma]
 ---
 
 Ladies and Gentlemen, People of OHOL, Young and Elders, another Arc Century has found its end, lasting for 924 years. Another short century. Before, we’ve seen nurseries and kitchen being build, trees planted for decoration, roads and bell towers planned. Some were foolish enough to spend their life building stone walls around their towns. But not anymore. 

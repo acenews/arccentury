@@ -5,8 +5,7 @@ description: Horses are striking, they are refusing to do carry our stuff.
 tags: [status]
 header_image: /images/broken_horse_cart.jpg
 image: /images/broken_horse_cart.jpg
-author: Tea
-photographer: Emma
+authors: [Tea,Emma]
 ---
 
 Carts are very useful, especially if they are attached to a horse. One can get many things done and can bring back recourses from outside the town faster with a horse than by foot. But our horses are striking. They refuse to move a muscle as soon as they have to carry anything more than the rider. 
