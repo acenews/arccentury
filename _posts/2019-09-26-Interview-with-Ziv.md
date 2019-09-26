@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Interview with OHOLs #1 griefer\
+title: Interview with OHOLs \#1 griefer\
 description: We met up with Ziv, a known griefer in the OHOL world, and asked him some questions.
 categories: [status]
 header_image: /images/Ziv_and_Kill.jpg
 image: /images/Ziv_and_Kill.jpg
 author: Tea
-photographer: Emma and Ziv
+photographer: Emma
 interview: Ziv
 ---
 
