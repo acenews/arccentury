@@ -5,8 +5,7 @@ description: Another Arc has ended. What happened during all those years?
 header_image: /images/Arc_1.jpg
 image: /images/Arc_1.jpg
 tags: []
-author: Tea
-photographer: Emma
+authors: [Tea,Emma]
 ---
 
 Ladies and Gentlemen, People of OHOL, Young and Elders. Another Arc Century has ended, lasting roughly 1700 years. What a Century! In the beginning, the Keldermans started off as the strongest family, counting almost 12 females. But, according to some recourses, the lack of fertility in a generation caused the downfall of that family. The last remaining Keldermans opened their gates to the Morsell family, who quickly settled in. After the disappearance of Keldermans, a family called Nim grew stronger and stronger. But at the last moment of the Eve Window, Eve Hammer managed to slip in and organize a strong and growing family. For some years, the Hammers dominated the Arc. Some rumors say that slavery was being introduced in that family, which could be the cause of the abruptly ending of the Hammers in Generation 36. Morsell and Nim were now the only surviving families, racing each other to be the last surviving dynasty. 
