@@ -8,9 +8,9 @@ image: /images/xmas_tree.jpg
 authors: [Tea,Emma]
 ---
 
-We write the year 3400 and the two remaining families are Nana and Banas, scattered everywhere around the Rift. During those years, people have gathered together to build amazing structures, such as walls surrounding and protecting the town, bakeries filled with pies and different monuments. 
+We write the year 3400 and the two remaining families are Nana and Banas, scattered everywhere around the Rift. During those years, people have gathered together to build amazing structures, walls surrounding and protecting the town, bakeries filled with pies and different monuments. 
 
-One of those towns is situated far north at the eastern Rift. It was founded by Eve Hammer and with the help of her kids, they managed to build the first structures of the town. Sadly, the Hammers died out at Generation 18 and different families took over and continued to expand. 
+One of those towns is situated far north at the eastern rift. It was founded by Eve Hammer and with the help of her kids, managed to build the first structures of the town. Sadly, the Hammers died out at Generation 18 and different families took over and continued to expand. 
 ![image](/images/hammer_familytree.jpg)
 
 Now, some members of the Nana household live there. The most astounding building would be the enormous bakery, north of the pen. 
@@ -27,10 +27,10 @@ Next to the forge, one can find the church, a place where Queens and Kings pass 
 ![image](/images/Bell_tower.jpg)
 
 
-South of the eastern Rift, another city surrounded by stone walls flourishes there. Eve Kelderman and two others, Eve Hammer and an unknown Eve, layed the first berry farm and the basics of an early camp. With time, Kelderman took over the settlement and ruled there for 25 generations and were killed by some members of the Banas.
+South of the eastern Rift, another city surrounded by massive stone walls. Eve Kelderman and two others, Eve Hammer and an unknown Eve, layed the first berry farm and the basics of an early camp. With time, Kelderman took over the settlement and ruled there for 25 generations and were killed by some members of the Banas.
 ![image](/images/kerlderman_familytree.jpg) 
 
-Now, some members of the Nana household occupy this city, talking to their northern neighbour through the radio. Next to the radio station, a graveyard had been build to honor their fallen family members. 
+Now, some members of the Nana household occupy this city, talking to their northern neighbour through the radio. Next to the radio station, a graveyard has been built to honor their fallen family members. 
 ![image](/images/kerlderman_town.jpg)
 
 
