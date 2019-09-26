@@ -28,9 +28,9 @@ When asking about multi culture camps and his opinion about them, he told us tha
 
 To the question about wether or not he would grief and hide materials, he answered that there are two reasons when he does that kind of griefing.
 
-    1) When he wants to get Jason's and people's attention on a specific problem or flaw in the game, he will start griefing them until the cry for help and annoyance will get heard by Jason.
+1) When he wants to get Jason's and people's attention on a specific problem or flaw in the game, he will start griefing them until the cry for help and annoyance will get heard by Jason.
 
-    2) When an Arc has lasted too long and no natural recourses can be gathered,he will start to hide tools or materials to force people to kill one of the two families in order to reset the Arc.
+2) When an Arc has lasted too long and no natural recourses can be gathered,he will start to hide tools or materials to force people to kill one of the two families in order to reset the Arc.
 ![image](/images/murder_ziv.jpg)
 
 We asked him if he thinks that his actions will impact new players trying to get into the game and he said that they will have to learn what the current situation of the game is. But, when he gets a notification that one of his babies is actually a new player, he will try and teach them some things. He last showed one how to make compost. 
