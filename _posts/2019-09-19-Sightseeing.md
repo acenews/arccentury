@@ -5,8 +5,7 @@ description: Visiting all the families in OHOL
 tags: [status,arc4]
 header_image: /images/Reporters.jpeg
 image: /images/Reporters.jpeg
-author: Tea
-photographer: Emma
+authors: [Tea,Emma]
 ---
 
 Today, our reporters set out to find all the different families and try to document their townlayouts and the important events in their towns.

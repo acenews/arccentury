@@ -5,8 +5,7 @@ description: Roads leading form one town to the Tarr monument have been build, b
 tags: []
 header_image: /images/unless.jpg
 image: /images/unless.jpg
-author: Tea
-photographer: Emma
+authors: [Tea,Emma]
 ---
 
 If you follow the road heading north west from the Pasillico Town, it will lead you to the middle of our world, where the Tarr monument lies, there, other road branches will lead you to unknown places. Following one road, we met a man called Mars Jones, who was exploring as well. Together, we found an abandoned city, filled with food, dogs and a note saying: "_Enjoy life - have friends. It makes life easy._"

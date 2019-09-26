@@ -5,8 +5,7 @@ description: Another Arc Century has ended. What happened during all those years
 tags: [status]
 header_image: /images/Eve_Bana_grave_with_name.jpg
 image: /images/Eve_Bana_grave_with_name.jpg
-author: Tea
-photographer: Emma
+authors: [Tea,Emma]
 ---
 
 Ladies and Gentlemen, People of OHOL, Young and Elders, another Arc Century has found its end, lasting for 860 years.

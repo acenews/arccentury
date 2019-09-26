@@ -5,8 +5,7 @@ description: Another Arc has ended. What happened during all those years ?
 tags: [status]
 header_image: /images/bodys_found.jpg
 image: /images/bodys_found.jpg
-author: Tea
-photographer: Emma
+authors: [Tea,Emma]
 ---
 
 Ladies and Gentlemen, People of OHOL, Young and Elders, another Arc has ended, lasting 2981 years!

@@ -5,8 +5,7 @@ description: A dog hater took away a mother dog her puppy and left them to die i
 tags: [status]
 header_image: /images/killing_jackie_the_dog.jpg
 image: /images/killing_jackie_the_dog.jpg
-author: Tea
-photographer: Emma
+authors: [Tea,Emma]
 ---
 
 In the Posillico Family, People were mourning. Their beloved Shepard Jackie died to a broken heart. Everyone was sad of her passing except for one person.

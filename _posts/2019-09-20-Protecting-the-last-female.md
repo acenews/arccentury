@@ -5,8 +5,7 @@ description: After a serious civil war lead to a close extinction of the Torres 
 tags: [status]
 header_image: /images/Torres.jpg
 image: /images/Torres.jpg
-author: Tea
-photographer: Emma
+authors: [Tea,Emma]
 ---
 
 Dear OHOL Citizens. A civil war broke out in the Torres clan, almost killing off every single one of it's member, causing a nearly early end of another Arc Century, if it wasn't for one last girl.

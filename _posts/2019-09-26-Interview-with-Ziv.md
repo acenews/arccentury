@@ -5,8 +5,7 @@ description: We met up with Ziv, a known griefer in the OHOL world, and asked hi
 categories: [status]
 header_image: /images/Ziv_and_Kill.jpg
 image: /images/Ziv_and_Kill.jpg
-author: Tea
-photographer: Emma
+authors: [Tea,Emma]
 interview: Ziv
 ---
 
