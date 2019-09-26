@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interview with OHOLs \#1 griefer\
+title: {% raw %} Interview with OHOLs #1 griefer {% endraw %}
 description: We met up with Ziv, a known griefer in the OHOL world, and asked him some questions.
 categories: [status]
 header_image: /images/Ziv_and_Kill.jpg
