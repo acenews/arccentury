@@ -23,7 +23,7 @@
           {
             if (event.key == "Enter")
             {
-              if (window.location.href != "{{page.url | prepend: site.baseurl}}") window.location.href = "{{page.url | prepend: site.baseurl}}";
+              if (window.location.href != "{{page.url | prepend: site.baseurl}}") window.location.assign("/");
             }
           });
         </script>
